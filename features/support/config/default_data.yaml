@@ -1,0 +1,11 @@
+validacoes_carrinho:
+  header: 'Seu carrinho'
+  info_parceiro: 'Programa de destino: Smiles'
+  valor_carrinho: '20.000 Pontos'
+  resumo_pedido: 'Resumo do pedido'
+
+validacoes_smiles:
+  texto_pdp: 'Transfira seus pontos para'
+  texto_pdp_smiles: 'Smiles'
+
+valor_transferencia: 20000
